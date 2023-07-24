@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8FF75F0E-4C0D-4E31-9399-91631DD01A02"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FB31B64-FB0C-4111-810C-116A80B01DB8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MP1-Aftid_Rahmanx/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B96D7C87-8DF0-4BFF-A871-82819310E8D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MP1-Aftid_Rahmanx/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B96D7C87-8DF0-4BFF-A871-82819310E8D9 - c220c906794e3eba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MP1_Aftid_Rahmanx.ViewController.Fact1.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MP1-Aftid_Rahmanx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smartscholars/Desktop/Aftid_Rahman/MP1-Aftid_Rahmanx/MP1-Aftid_Rahmanx/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B96D7C87-8DF0-4BFF-A871-82819310E8D9 - 49899fb18c483ab6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MP1_Aftid_Rahmanx.ViewController.Fact1.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MP1-Aftid_Rahmanx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smartscholars/Desktop/Aftid_Rahman/MP1-Aftid_Rahmanx/MP1-Aftid_Rahmanx/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "B96D7C87-8DF0-4BFF-A871-82819310E8D9 - da1fa83418f4a1b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MP1_Aftid_Rahmanx.ViewController.Fact1.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MP1-Aftid_Rahmanx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smartscholars/Desktop/Aftid_Rahman/MP1-Aftid_Rahmanx/MP1-Aftid_Rahmanx/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B96D7C87-8DF0-4BFF-A871-82819310E8D9 - 5a5bc6b14b7f3970"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MP1_Aftid_Rahmanx.ViewController.Fact1.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MP1-Aftid_Rahmanx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smartscholars/Desktop/Aftid_Rahman/MP1-Aftid_Rahmanx/MP1-Aftid_Rahmanx/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "B96D7C87-8DF0-4BFF-A871-82819310E8D9 - 6edd94694cf02ac3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MP1_Aftid_Rahmanx.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MP1_Aftid_Rahmanx.ViewController"
+                  moduleName = "MP1-Aftid_Rahmanx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smartscholars/Desktop/Aftid_Rahman/MP1-Aftid_Rahmanx/MP1-Aftid_Rahmanx/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B96D7C87-8DF0-4BFF-A871-82819310E8D9 - 440bebd7193437ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MP1_Aftid_Rahmanx.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MP1_Aftid_Rahmanx.ViewController&gt;"
+                  moduleName = "MP1-Aftid_Rahmanx"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smartscholars/Desktop/Aftid_Rahman/MP1-Aftid_Rahmanx/MP1-Aftid_Rahmanx/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

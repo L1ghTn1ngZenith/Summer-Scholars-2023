@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Fact 3"; ObjectID = "QyR-em-Mf7"; */
+"QyR-em-Mf7.text" = "Fact 3";
+
+/* Class = "UILabel"; text = "Facts About Aftid!!"; ObjectID = "Yn9-mt-YTD"; */
+"Yn9-mt-YTD.text" = "Facts About Aftid!!";
+
+/* Class = "UILabel"; text = "Fact 2"; ObjectID = "dUY-i0-pQe"; */
+"dUY-i0-pQe.text" = "Fact 2";
+
+/* Class = "UIButton"; configuration.title = "Reveal Facts!"; ObjectID = "lJD-Ay-o1h"; */
+"lJD-Ay-o1h.configuration.title" = "Reveal Facts!";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lJD-Ay-o1h"; */
+"lJD-Ay-o1h.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Fact 1"; ObjectID = "yHJ-ij-WNT"; */
+"yHJ-ij-WNT.text" = "Fact 1";
