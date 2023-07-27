@@ -9,12 +9,24 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var answerDisplay: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
 
-    @IBOutlet weak var answerDisplay: UILabel!
+    @IBAction func response1(_ sender: UIButton) {
+        answerDisplay.text = "👍"
+    }
     
+    @IBAction func response2(_ sender: UIButton) {
+        answerDisplay.text = "❌"
+    }
+    
+    @IBAction func response3(_ sender: UIButton) {
+        answerDisplay.text = "❌"
+    }
+    
+    @IBAction func unwindToFirst(segue: UIStoryboardSegue) {}
 }
-
